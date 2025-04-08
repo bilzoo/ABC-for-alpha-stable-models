@@ -18,3 +18,5 @@ This work is based on the paper:
 
 Sisson, S. A. (2011). Likelihood-free Bayesian inference for α-stable models. Computational Statistics & Data Analysis, 55(1), 275–287.
 DOI: 10.1016/j.csda.2010.10.004
+
+By Hafsa EL IBRAHIMI	Bilal RAMADAN	& Jean JACOB
