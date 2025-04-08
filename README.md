@@ -13,10 +13,10 @@ Apply and compare several ABC algorithms (ABC-Reject, MCMC-ABC, and SMC-ABC) to 
 
 (Bonus) Extend the approach to multivariate alpha-stable models.
 
-📄 Reference
-This work is based on the paper:
 
+
+Bibliography
 Sisson, S. A. (2011). Likelihood-free Bayesian inference for α-stable models. Computational Statistics & Data Analysis, 55(1), 275–287.
 DOI: 10.1016/j.csda.2010.10.004
 
-By Hafsa EL IBRAHIMI	Bilal RAMADAN	& Jean JACOB
+**By Hafsa EL IBRAHIMI	Bilal RAMADAN	& Jean JACOB**
